@@ -20,7 +20,7 @@ Copy the content of text1.txt file to copy.txt using write function
 ## PROGRAM:
 ```
 Program for copying the contents from one file to another file
-Developed by:Tharun Kumar
+Developed by:Tharun Kumar.M
 RegisterNumber: 212222100056
 
 with open("text1.txt",'r') as fp:
